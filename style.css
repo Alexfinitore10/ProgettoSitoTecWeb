@@ -1,0 +1,47 @@
+ #titolo {
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 70px;
+     color: rgba(39, 241, 180, 0.755);
+     background-color: rgb(230, 150, 200);
+     border: 10px inset black;
+     background-image: url("Images/deathstr.jpg");
+     border-radius: 8px;
+     background-size: cover;
+     background-attachment: scroll;
+     height: 150px;
+     width: 700px;
+     margin: auto;
+     padding: 1 px;
+ }
+
+ #benvenuto {
+     border: 1px solid black;
+     text-align: center;
+ }
+
+
+ nav ul {
+     display: flex;
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     justify-content: space-evenly;
+     align-items: end;
+ }
+
+ article {
+     display: inline-block;
+     padding: 10px;
+     border: 1px solid;
+     vertical-align: top;
+     box-sizing: border-box;
+     width: auto;
+     height: auto;
+ }
+
+ #footer {
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+ }
